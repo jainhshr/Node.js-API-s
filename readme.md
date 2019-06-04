@@ -7,4 +7,6 @@ Used MySql database to store the CSV file. The MySql database is not uploaded, s
 The final running code is **run.js**, but the code is also split into small parts and uploaded for better understanding. 
 
 Check **package.json** to check the dependencies needed to run the code. 
+
+Run Script.py to read all the csv file from a particular folder name and try to upload to the server using the /upload API.
  
