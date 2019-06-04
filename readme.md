@@ -4,6 +4,7 @@ Implemented two API's using Node and Express
 **API 2:** GET API which fetches the content from the database and returns a JSON response.     
 
 Used MySql database to store the CSV file. To see how to make the connection check **db_conn.js**  
-The final running code is **run.js**, but the code is also split into small parts and uploaded for better understanding.
+The final running code is **run.js**, but the code is also split into small parts and uploaded for better understanding. 
 
+Check **package.json** to check the dependencies needed to run the code. 
  
